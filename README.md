@@ -27,7 +27,7 @@ The project was a challenge for us! We can highlight the following:
 - Integrate the Frontend made in React with the Django rest framework endpoints 
 
 ## Accomplishments that we're proud of
-Everything we did was an accomplishment, we made possible the functionality we imagined at the start of the project, in other words, the app rocks! 🎸
+Evything we did was an acomplishment, we made possible the functionality we imagined at the start of the project, in other words, the app rocks! 🎸
 
 ## What we learned
 Our personal learnings are the following:
