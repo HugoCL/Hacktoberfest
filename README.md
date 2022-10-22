@@ -90,6 +90,7 @@ The things you must have installed are Python >= 3.9, and npm. And also have an 
    2. Run ```npn install```
 2. Start the server: ```npm start```
 
+
 ### For the AWS keys, one option is create a .env file in the backend folder with the next format (no quotes are needed):
 ```
 AWS_ACCESS_KEY_ID=
