@@ -34,7 +34,7 @@ The project was a challenge for us! We can highlight the following:
 
 ## Accomplishments that we're proud of
 
-Evything we did was an acomplishment, we made possible the functionality we imagined at the start of the project, in other words, the app rocks! 🎸
+Everything we did was an accomplishment, we made possible the functionality we imagined at the start of the project, in other words, the app rocks! 🎸
 
 ## What we learned
 
@@ -100,6 +100,7 @@ The things you must have installed are Python >= 3.9, and npm. And also have an 
    1. Go to the frontend folder `cd frontend`
    2. Run `npn install`
 2. Start the server: `npm start`
+
 
 ### For the AWS keys, one option is create a .env file in the backend folder with the next format (no quotes are needed):
 
